@@ -1,3 +1,8 @@
+# <div style="display: flex; justify-content: space-between; align-items: center;">
+# <span></span>
+# <a href="index_JP.html" style="text-decoration: none; color: #333; background: #f2f2f2; border-radius: 4px; padding: 4px 12px; position: absolute; top: 16px; right: 24px;">JP</a>
+# </div>
+#
 # Work Life Balance Workshop
 
 **Motto:** Sustainable research careers
