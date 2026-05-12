@@ -1,5 +1,5 @@
 remote_theme: tuur29/pages-themes-cayman
-title: CVPR 2025 Workshop on Event-based Vision
+title: MIRU 2026 Workshop on Work-Life Balance and Diversity
 color:
   gradient_left: "#002e63"
   gradient_right: "#d9902e"
@@ -12,20 +12,17 @@ syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/
 
 github: 
   is_project_page: false
-
-twitter:
-  username: guillermogb
   
 # About/contact
 author:
-  name:       Guillermo Gallego
-  url:        http://www.guillermogallego.es
+  name:       Andreu Girbau-Xalabarder
+  url:        https://agirbau.github.io/
 
 defaults:
   - scope:
       path: ""
     values:
       image:
-        path: /images/2025_CVPRW_speakers_and_organizers.jpg
+        path: /images/2026_MIRU_speakers_and_organizers.jpg
         height: 1073
         width: 900
