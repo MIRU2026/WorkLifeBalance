@@ -1,1 +1,1 @@
-## 5th International Workshop on Event-based Vision, CVPR 2025. [Web page](https://tub-rip.github.io/eventvision2025/)
+## Workshop on Work Life Balance and Diversity, MIRU 2026. [Web page](https://miru2026.github.io/WorkLifeBalance/)
