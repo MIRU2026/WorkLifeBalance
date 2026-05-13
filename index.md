@@ -9,6 +9,9 @@
 
 The Work Life Balance workshop is a space for researchers to reflect on how to build meaningful, productive, and sustainable careers without treating wellbeing as an afterthought. The workshop brings together practical strategies, shared experiences, and open discussion around research culture, boundaries, collaboration, mentoring, and long-term professional health.
 
+## Panelists
+![panelists](/images/MIRU2026_WLB_Panelists.png)
+
 ## Objectives
 
 ## Topics Covered
