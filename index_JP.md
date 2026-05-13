@@ -15,7 +15,7 @@
 
 ## スケジュール
 
-## 主催者
+## 主催者 (敬称略)
 ![workshop organizers](/images/MIRU2026_WLB_Organizers_JP.png)
 
 ## 重要日程
