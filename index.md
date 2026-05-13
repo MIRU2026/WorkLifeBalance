@@ -16,6 +16,7 @@ The Work Life Balance workshop is a space for researchers to reflect on how to b
 ## Schedule
 
 ## Organizers
+![workshop organizers](/images/MIRU2026_WLB_Organizers.png)
 
 ## Important Dates
 
