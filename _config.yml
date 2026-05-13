@@ -1,15 +1,16 @@
 remote_theme: tuur29/pages-themes-cayman
 title: MIRU 2026 Workshop on Work-Life Balance and Diversity
-description: How to maintain a sustainable research career without burning out, MIRU 2026
-color:
-  gradient_left: "#002e63"
-  gradient_right: "#d9902e"
-  header: "#fff"
-  android_theme: "#000" # this default to gradient_color
-  link: "#1e6bb8" # this default to gradient_color
-  section_title: "#d9902e" # this default to gradient_color
+description: How to maintain a sustainable research career without burning out
 
-syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
+color:
+  gradient_left: "#6FA8A6"     # calm teal
+  gradient_right: "#F2C078"    # warm soft amber
+  header: "#ffffff"
+  android_theme: "#6FA8A6"
+  link: "#3F7D7A"
+  section_title: "#D88C5A"     # gentle coral/terracotta
+
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-default.css
 
 github: 
   is_project_page: false
