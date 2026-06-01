@@ -12,19 +12,21 @@ The Work Life Balance workshop is a space for researchers to reflect on how to b
 ## Panelists
 ![panelists](/images/MIRU2026_WLB_Panelists.png)
 
-## Objectives
+## Program (Tentative)
 
-## Topics Covered
+Date: August 6th, 2026, Lunch break (11:30-13:00)
 
-## Schedule
+Location: TBD
+
+Room: TBD
+
+11:30-11:45 Opening + Case study presentation
+
+11:45-12:15 Group discussion and idea presentation
+
+12:15-12:55 Panel discussion
+
+12:55-13:00 Conclusion
 
 ## Organizers
 ![workshop organizers](/images/MIRU2026_WLB_Organizers.png)
-
-## Important Dates
-
-## FAQs
-
-## Supported by
-
-## Acknowledgments
