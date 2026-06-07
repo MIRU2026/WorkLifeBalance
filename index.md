@@ -5,16 +5,16 @@
 
 # Work Life Balance Workshop
 
+**Motto:** Sustainable research careers
+
+The Work Life Balance workshop is a space for researchers to reflect on how to build meaningful, productive, and sustainable careers without treating wellbeing as an afterthought. The workshop brings together practical strategies, shared experiences, and open discussion around research culture, boundaries, collaboration, mentoring, and long-term professional health.
+
 # Registration
 Registration is available on a first-come, first-served basis. Once your registration has been processed, we will send you a confirmation email.
 
 If you would like to attend the workshop, please complete the form below.
 
 [Registration Form](https://forms.gle/su1bc1P3rVw1TMm27)
-
-**Motto:** Sustainable research careers
-
-The Work Life Balance workshop is a space for researchers to reflect on how to build meaningful, productive, and sustainable careers without treating wellbeing as an afterthought. The workshop brings together practical strategies, shared experiences, and open discussion around research culture, boundaries, collaboration, mentoring, and long-term professional health.
 
 ## Panelists
 ![panelists](/images/MIRU2026_WLB_Panelists.png)
