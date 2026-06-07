@@ -10,7 +10,7 @@ Registration is available on a first-come, first-served basis. Once your registr
 
 If you would like to attend the workshop, please complete the form below.
 
-![Registration Form](https://forms.gle/su1bc1P3rVw1TMm27)
+[Registration Form](https://forms.gle/su1bc1P3rVw1TMm27)
 
 **Motto:** Sustainable research careers
 
