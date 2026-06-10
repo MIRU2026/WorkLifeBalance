@@ -10,8 +10,6 @@
 The Work Life Balance workshop is a space for researchers to reflect on how to build meaningful, productive, and sustainable careers without treating wellbeing as an afterthought. The workshop brings together practical strategies, shared experiences, and open discussion around research culture, boundaries, collaboration, mentoring, and long-term professional health.
 
 # Registration
-Please note that this form is for the workshop waiting list and does not constitute registration.
-
 Workshop places will be allocated on a first-come, first-served basis. If a seat becomes available, you will receive a confirmation email. Only participants who receive a confirmation email will be considered registered.
 
 Please complete the form below to join the waiting list.
