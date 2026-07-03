@@ -23,9 +23,9 @@ Please complete the form below to join the waiting list.
 
 Date: August 6th, 2026, Lunch break (11:30-13:00)
 
-Location: TBD
+Location: Dejima Messe Nagasaki
 
-Room: TBD
+Room: 103
 
 11:30-11:45 Opening + Case study presentation
 
