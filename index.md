@@ -37,3 +37,4 @@ Room: 103
 
 ## Organizers
 ![workshop organizers](/images/MIRU2026_WLB_Organizers.png)
+

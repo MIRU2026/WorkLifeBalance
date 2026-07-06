@@ -35,3 +35,4 @@
 
 ## 主催者
 ![workshop organizers](/images/MIRU2026_WLB_Organizers_JP.png)
+
